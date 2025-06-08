@@ -20,8 +20,8 @@ Cada función decorada con `@mcp.tool()` expone una "herramienta" que puede ser 
 
 1. Clona o descarga este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/inventariodb.git
-   cd inventariodb
+   git clone https://github.com/diegogfhjk/mcp.git
+   cd mcp
    ```
 
 2. Instala Claude desktop:
